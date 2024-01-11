@@ -1,0 +1,25 @@
+{
+  "name": "midterm",
+  "version": "22.2.2",
+  "description": "COMP 426 midterm exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/midterm-Mbuguajw.git"
+  },
+  "keywords": [
+    "midterm"
+  ],
+  "author": "mbuguajw",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/midterm-Mbuguajw/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/midterm-Mbuguajw#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
